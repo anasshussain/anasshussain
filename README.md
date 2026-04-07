@@ -1,4 +1,4 @@
-Hi👋, I’m Anas Hussain 
+<h2 align="center">Hi 👋, I’m Anus Hussain</h2>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
@@ -7,7 +7,7 @@ Hi👋, I’m Anas Hussain
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Experimenting with Flutter animations & UI designs 🚀 Built 5+ apps & 3 websites.
 
-- Connect with me:
+- **Connect with me:**
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasshussain) 
@@ -22,7 +22,7 @@ Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 
 ---
 
-Languages & Tools:
+**Languages & Tools:**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
