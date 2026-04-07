@@ -38,5 +38,5 @@ Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-###**Contact**
+### **Contact**
 - Phone: +92-329-3005667  
