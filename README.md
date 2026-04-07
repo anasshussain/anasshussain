@@ -36,16 +36,22 @@ Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasshussain&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasshussain&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
-### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasshussain&theme=github_dark" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasshussain&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasshussain&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasshussain&theme=github_dark" />
 </p>
 
 ### **Contact**  
