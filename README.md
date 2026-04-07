@@ -16,7 +16,6 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-hussain-5768ab399/)
 
 Anas Hussain:
-
 Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 
 ---
@@ -38,4 +37,5 @@ Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### **Contact**   Phone: +92-329-3005667  
+### **Contact**  
+Phone: +92-329-3005667  
