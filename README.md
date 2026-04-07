@@ -36,6 +36,10 @@ Software Developer | Mobile & Web Apps | Full-Stack Enthusiast
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasshussain&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ### **Contact**  
 Phone: +92-329-3005667  
