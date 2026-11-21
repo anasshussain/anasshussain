@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="Anas Hussain">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-EE6F3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/anas-hussain-5768ab399">
@@ -54,4 +54,9 @@
 <h3 align="center">📬 Contact</h3>
 
 <p align="center">
-  📧 <a href="mailto:anasshussain08@gmail.co
+  📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasshussain08@gmail.com&su=Hello%20Anas">anasshussain08@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌐 <a href="#">Anas Hussain</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  📱 +92-329-3005667
+</p>
