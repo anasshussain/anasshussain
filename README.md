@@ -26,7 +26,7 @@
   <tr>
     <td align="center"><b>iOS</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=swift,xcode&theme=light" alt="iOS" />
+      <img src="https://skillicons.dev/icons?i=swift,xcode&theme=light" alt="IOS" />
     </td>
   </tr>
   <tr>
