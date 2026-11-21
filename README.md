@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">📬 Contact</h3>
+<h3 align="center">Contact</h3>
 
 <p align="center">
   📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasshussain08@gmail.com&su=Hello%20Anas">anasshussain08@gmail.com</a>
