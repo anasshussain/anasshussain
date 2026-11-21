@@ -26,13 +26,13 @@
   <tr>
     <td align="center"><b>iOS</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=swift,xcode&theme=light" alt="iOS" />
+      <img src="https://skillicons.dev/icons?i=swift,apple,xcode&theme=light" alt="iOS" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Android</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=light" alt="Android" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=light" alt="Android" />
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
   <tr>
     <td align="center"><b>Backend & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase,github&theme=light" alt="Backend and Tools" />
+      <img src="https://skillicons.dev/icons?i=firebase,github,figma&theme=light" alt="Backend and Tools" />
     </td>
   </tr>
 </table>
@@ -55,6 +55,8 @@
 
 <p align="center">
   📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasshussain08@gmail.com&su=Hello%20Anas">anasshussain08@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/anas-hussain-5768ab399">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <a href="#">Anas Hussain</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
