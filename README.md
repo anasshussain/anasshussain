@@ -26,13 +26,16 @@
   <tr>
     <td align="center"><b>iOS</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=swift,apple,xcode&theme=light" alt="iOS" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+      <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Android</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=light" alt="Android" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=light" alt="Android" />
     </td>
   </tr>
   <tr>
@@ -44,7 +47,7 @@
   <tr>
     <td align="center"><b>Backend & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase,github,figma&theme=light" alt="Backend and Tools" />
+      <img src="https://skillicons.dev/icons?i=firebase,github&theme=light" alt="Backend and Tools" />
     </td>
   </tr>
 </table>
