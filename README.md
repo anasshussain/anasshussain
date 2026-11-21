@@ -56,8 +56,6 @@
 <p align="center">
   📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasshussain08@gmail.com&su=Hello%20Anas">anasshussain08@gmail.com</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/anas-hussain-5768ab399">LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <a href="#">Anas Hussain</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   📱 +92-329-3005667
