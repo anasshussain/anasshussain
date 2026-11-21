@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anas Hussain 👋</h1>
 
-<h3 align="center">iOS x Android x Flutter Engineer</h3>
+<h3 align="center">IOS x Android x Flutter Engineer</h3>
 
 <p align="center">
   Building fast, scalable and beautifully crafted mobile apps with Swift, Kotlin & Flutter
